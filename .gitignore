@@ -1,0 +1,6 @@
+# local settings #
+.classpath
+.project
+
+# class files #
+bin/
