@@ -1,4 +1,4 @@
-package 장지수.D1;
+package jjs.D1;
 
 import java.io.FileInputStream;
 import java.util.Scanner;
