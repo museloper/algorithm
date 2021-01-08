@@ -4,3 +4,9 @@
 
 # class files #
 bin/
+
+# vs settigs #
+.vscode/
+
+# markdown skin #
+markdownpad-github.css
