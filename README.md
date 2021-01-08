@@ -57,3 +57,11 @@ $ git clone https://github.com/museloper/algorithm.git
 2. 작업한 파일 스테이지에 올려서 커밋 & 푸시
 
     <img src="./images/message.png">
+
+<br>
+
+3. 아이디 비밀번호 입력
+
+    <img src="./images/auth.png">
+
+<br>
