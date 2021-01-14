@@ -13,7 +13,7 @@ public class _2072 {
 
 		scanner = new Scanner(System.in);
 		
-		int tc = Integer.parseInt(scanner.nextLine());
+		int tc = Integer.parseInt(scanner.nextLine().trim());
 		
 		for(int i=0; i<tc; i++) {
 			String arr[] = scanner.nextLine().split(" ");

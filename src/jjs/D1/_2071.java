@@ -13,7 +13,7 @@ public class _2071 {
 
 		scanner = new Scanner(System.in);
 		
-		int testCase = Integer.parseInt(scanner.nextLine());
+		int testCase = Integer.parseInt(scanner.nextLine().trim());
 		
 		for(int i=0; i<testCase; i++) {
 			String arr[] = scanner.nextLine().split(" ");

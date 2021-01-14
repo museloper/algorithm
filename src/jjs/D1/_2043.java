@@ -1,7 +1,6 @@
 package jjs.D1;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class _2043 {

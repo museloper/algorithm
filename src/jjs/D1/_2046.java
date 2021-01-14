@@ -14,7 +14,7 @@ public class _2046 {
 		
 		scanner = new Scanner(System.in);
 		
-		int cnt = Integer.parseInt(scanner.nextLine());
+		int cnt = Integer.parseInt(scanner.nextLine().trim());
 		
 		for(int i=0; i<cnt; i++) {
 			System.out.print("#");
