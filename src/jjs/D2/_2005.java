@@ -9,7 +9,7 @@ public class _2005 {
 	
 	public static void main(String[] args) throws Exception {
 
-		System.setIn(new FileInputStream("input/_2005.txt"));
+		System.setIn(new FileInputStream("input/D2/_2005.txt"));
 		
 		scanner = new Scanner(System.in);
 		

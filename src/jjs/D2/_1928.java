@@ -11,7 +11,7 @@ public class _1928 {
 	
 	public static void main(String[] args) throws Exception {
 
-		System.setIn(new FileInputStream("input/_1928.txt"));
+		System.setIn(new FileInputStream("input/D2/_1928.txt"));
 		
 		scanner = new Scanner(System.in);
 		
